@@ -27,13 +27,11 @@ You can download the models by executing the following command or by visiting th
     cd parserTool
     bash build.sh
 
-## Train the model
+## Train and test the model
 
     source train.sh
 
 You can fine-tune the parameters for different RQs in this file.
-  
-## Test the model
 
 You can download the models by executing the following command or by visiting the following site：
 
@@ -41,9 +39,6 @@ You can download the models by executing the following command or by visiting th
   
     https://drive.google.com/file/d/1bqqty2RxvjqNNE0iXVVzA3bGFILhP01P/view?usp=drive_link
 
-If you want to test the model quickly, you can execute the following command:
-
-    source test.sh
     
 ## References
 [1] Jiahao Fan, Yi Li, Shaohua Wang, and Tien Nguyen. 2020. A C/C++ Code Vulnerability Dataset with Code Changes and CVE Summaries. In The 2020 International Conference on Mining Software Repositories (MSR). IEEE.
