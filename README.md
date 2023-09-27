@@ -8,19 +8,20 @@ To investigate the effectiveness of RECON, we adopt the vulnerability datasets f
   
 You can download the models by executing the following command or by visiting the following site：
 
-gdown https://drive.google.com/uc?id=12QVOd2fY9jYdJlqr5FfXW5yLBglR98OV
-
-https://drive.google.com/file/d/12QVOd2fY9jYdJlqr5FfXW5yLBglR98OV/view?usp=drive_link
+    gdown https://drive.google.com/uc?id=12QVOd2fY9jYdJlqr5FfXW5yLBglR98OV
+    
+    https://drive.google.com/file/d/12QVOd2fY9jYdJlqr5FfXW5yLBglR98OV/view?usp=drive_link
 
 ## Environment Setup
-- Python: 3.8
-- Pytorch: 1.10.0+cu111
-- networkx: 2.8.5
-- numpy: 1.22.3
-- scikit-learn: 1.1.1
-- scipy: 1.8.1
-- tree-sitter: 0.20.0
-  
+
+    - Python: 3.8
+    - Pytorch: 1.10.0+cu111
+    - networkx: 2.8.5
+    - numpy: 1.22.3
+    - scikit-learn: 1.1.1
+    - scipy: 1.8.1
+    - tree-sitter: 0.20.0
+    
 ## Tree-sitter 
 
     cd parserTool
@@ -37,7 +38,7 @@ You can fine-tune the parameters for different RQs in this file.
 You can download the models by executing the following command or by visiting the following site：
 
     gdown https://drive.google.com/uc?id=1bqqty2RxvjqNNE0iXVVzA3bGFILhP01P
-
+  
     https://drive.google.com/file/d/1bqqty2RxvjqNNE0iXVVzA3bGFILhP01P/view?usp=drive_link
 
 If you want to test the model quickly, you can execute the following command:
