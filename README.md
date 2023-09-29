@@ -1,5 +1,7 @@
 # RECON
+
 # Game Rewards Vulnerabilities: Software Vulnerability Detection with Zero-Sum Game and Prototype Learning
+
 ## Dataset
 To investigate the effectiveness of RECON, we adopt the vulnerability datasets from the paper:
 
