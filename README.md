@@ -1,5 +1,4 @@
 # RECON
-
 # Game Rewards Vulnerabilities: Software Vulnerability Detection with Zero-Sum Game and Prototype Learning
 
 ## Dataset
